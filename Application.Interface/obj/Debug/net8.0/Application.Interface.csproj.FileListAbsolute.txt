@@ -1,0 +1,30 @@
+C:\Users\hashizaf\Documents\template\Application.Interface\bin\Debug\net8.0\Application.Interface.deps.json
+C:\Users\hashizaf\Documents\template\Application.Interface\bin\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template\Application.Interface\bin\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Application.Interface.AssemblyInfoInputs.cache
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Application.Interface.AssemblyInfo.cs
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\refint\Application.Interface.dll
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\ref\Application.Interface.dll
+C:\Users\hashizaf\Documents\template\Application.Interface\bin\Debug\net8.0\Domain.dll
+C:\Users\hashizaf\Documents\template\Application.Interface\bin\Debug\net8.0\Domain.pdb
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Application.Interface.csproj.AssemblyReference.cache
+C:\Users\hashizaf\Documents\template\Application.Interface\obj\Debug\net8.0\Applicat.93C7BB7F.Up2Date
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\bin\Debug\net8.0\Application.Interface.deps.json
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\bin\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\bin\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\bin\Debug\net8.0\Domain.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\bin\Debug\net8.0\Domain.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Application.Interface.csproj.AssemblyReference.cache
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Application.Interface.AssemblyInfoInputs.cache
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Application.Interface.AssemblyInfo.cs
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Applicat.93C7BB7F.Up2Date
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\refint\Application.Interface.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.Interface\obj\Debug\net8.0\ref\Application.Interface.dll

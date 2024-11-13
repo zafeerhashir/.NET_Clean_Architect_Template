@@ -1,0 +1,112 @@
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.exe
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.deps.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.runtimeconfig.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.pdb
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Persistence.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Application.UseCases.pdb
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Persistence.pdb
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.csproj.AssemblyReference.cache
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.AssemblyInfoInputs.cache
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.AssemblyInfo.cs
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.csproj.CoreCompileInputs.cache
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.EcotimeWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.EcotimeWebApi.props
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcotimeWebApi.props
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcotimeWebApi.props
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\scopedcss\bundle\EcotimeWebApi.styles.css
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeW.A22593C5.Up2Date
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\refint\EcotimeWebApi.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.pdb
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.genruntimeconfig.cache
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\ref\EcotimeWebApi.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Application.Dto.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Domain.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Application.Dto.pdb
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Domain.pdb
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\LazyCache.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\hashizaf\Documents\template\EcotimeWebApi\bin\Debug\net8.0\appsettings.QA.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\appsettings.QA.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.exe
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.deps.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.runtimeconfig.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\EcotimeWebApi.pdb
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\LazyCache.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Application.Dto.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Domain.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Persistence.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Application.UseCases.pdb
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Persistence.pdb
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Application.Dto.pdb
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\bin\Debug\net8.0\Domain.pdb
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.csproj.AssemblyReference.cache
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.AssemblyInfoInputs.cache
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.AssemblyInfo.cs
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.csproj.CoreCompileInputs.cache
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.EcotimeWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.EcotimeWebApi.props
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcotimeWebApi.props
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcotimeWebApi.props
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\scopedcss\bundle\EcotimeWebApi.styles.css
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeW.A22593C5.Up2Date
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\refint\EcotimeWebApi.dll
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.pdb
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\EcotimeWebApi.genruntimeconfig.cache
+C:\Users\hashizaf\Documents\template - Copy\EcotimeWebApi\obj\Debug\net8.0\ref\EcotimeWebApi.dll

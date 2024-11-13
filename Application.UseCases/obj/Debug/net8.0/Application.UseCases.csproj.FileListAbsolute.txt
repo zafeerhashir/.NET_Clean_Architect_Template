@@ -1,0 +1,38 @@
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Application.UseCases.deps.json
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Application.UseCases.pdb
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Application.UseCases.csproj.AssemblyReference.cache
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Application.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Application.UseCases.AssemblyInfoInputs.cache
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Application.UseCases.AssemblyInfo.cs
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Application.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\refint\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Application.UseCases.pdb
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\ref\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Application.Dto.dll
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Application.Dto.pdb
+C:\Users\hashizaf\Documents\template\Application.UseCases\obj\Debug\net8.0\Applicat.0F933119.Up2Date
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Domain.dll
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template\Application.UseCases\bin\Debug\net8.0\Domain.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Application.UseCases.deps.json
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Application.UseCases.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Application.Dto.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Application.Interface.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Domain.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Application.Dto.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Application.Interface.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\bin\Debug\net8.0\Domain.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Application.UseCases.csproj.AssemblyReference.cache
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Application.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Application.UseCases.AssemblyInfoInputs.cache
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Application.UseCases.AssemblyInfo.cs
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Application.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Applicat.0F933119.Up2Date
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\refint\Application.UseCases.dll
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\Application.UseCases.pdb
+C:\Users\hashizaf\Documents\template - Copy\Application.UseCases\obj\Debug\net8.0\ref\Application.UseCases.dll
